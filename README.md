@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rakesh-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rakesh-ranjan" /> </p>
 
-- 🌱 I’m currently learning **LLMs, Artificial Intelligence**
+- 🌱 I’m currently learning **LLMs, Data Science**
 
 - 💬 Ask me about **Spring Boot, Reacts, Django**
 
