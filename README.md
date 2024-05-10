@@ -1,5 +1,5 @@
-<h1 align="center">Buddy 🧑, I'm Rakesh Ranjan from India</h1>
-<h3 align="center">Data Analyst | Java backend Developer | Problem Solving</h3>
+<h1 align="center">Buddy 🧑, I'm Rakesh Ranjan from India </h1>
+<h3 align="center">Data Scientist | Problem Solving | Data Analyst @Pursuit Software </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rakesh-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rakesh-ranjan" /> </p>
 
