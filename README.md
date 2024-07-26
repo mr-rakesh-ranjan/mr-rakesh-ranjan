@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLMs, Data Science**
 
-- 💬 Ask me about **Spring Boot, Reacts, Django**
+- 💬 Ask me about **Spring Boot, Reacts, Django, Flask Rest, FastAPI**
 
 - 📫 How to reach me **rakeshranjan.java1.8@gmail.com**
 
