@@ -82,7 +82,8 @@ _Studied DS&A, DBMS, Java, and Software Engineering._
 ## 📫 Connect With Me
 
 - 📧 Email: [rakeshranjan.java1.8@gmail.com](mailto:rakeshranjan.java1.8@gmail.com)  
-- 🔗 LinkedIn: [mr-rakesh-ranjan](https://www.linkedin.com/in/mr-rakesh-ranjan/)  
+- 🔗 LinkedIn: [mr-rakesh-ranjan](https://www.linkedin.com/in/mr-rakesh-ranjan/)
+-  📜 LeetCode: [mr-rakesh-ranjan](https://leetcode.com/u/mr_rakesh_ranjan/)
 - 🖼️ Photography: [Instagram](https://www.instagram.com/mr_rakesh__ranjan/?hl=en)
 
 ---
