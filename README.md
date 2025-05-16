@@ -1,8 +1,5 @@
 # 👨‍💻 Rakesh Ranjan Kumar — Software Engineer | AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rakesh-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rakesh-ranjan" /> </p>
-
-
 Welcome to my GitHub! I'm a passionate software engineer with **2.5+ years** of experience in **backend development**, **AI engineering**, and **natural language processing**. I specialize in building scalable, intelligent systems using modern tools and frameworks. This README provides a snapshot of my **skills**, **projects**, and **professional journey**.
 
 ---
