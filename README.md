@@ -1,120 +1,94 @@
-<h1 align="center">Buddy 🧑, I'm Rakesh Ranjan from India </h1>
-<h3 align="center">Data Scientist | Problem Solving | Data Analyst @Pursuit Software </h3>
+# 👨‍💻 Rakesh Ranjan Kumar — Software Engineer | AI Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rakesh-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rakesh-ranjan" /> </p>
 
-- 🌱 I’m currently learning **LLMs, Data Science**
 
-- 💬 Ask me about **Spring Boot, Reacts, Django, Flask Rest, FastAPI**
+Welcome to my GitHub! I'm a passionate software engineer with **2.5+ years** of experience in **backend development**, **AI engineering**, and **natural language processing**. I specialize in building scalable, intelligent systems using modern tools and frameworks. This README provides a snapshot of my **skills**, **projects**, and **professional journey**.
 
-- 📫 How to reach me **rakeshranjan.java1.8@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18CJcVH5ywW8IFiVGSy1_m6HkpU0i_VlH/view?usp=sharing](https://drive.google.com/file/d/18CJcVH5ywW8IFiVGSy1_m6HkpU0i_VlH/view?usp=sharing)
+## 🔧 Skills
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/rakesh-ranjan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-ranjan-kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/rakesh1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakesh1227" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_rakesh__ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rakesh__ranjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr_rakesh_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_rakesh_ranjan" height="30" width="40" /></a>
-</p>
+**Languages**  
+- Java, Python, JavaScript
 
-<h2 align="left">I code with</h2>
+**Frameworks & Libraries**  
+- Flask, FastAPI, Spring Boot  
+- Pandas, NumPy, Scikit-Learn, Matplotlib  
+- PyTorch, Keras, Hugging Face Transformers, Haystack  
+- LangChain, Llama Index, Ragas, Replicate
 
-###
+**Databases**  
+- MySQL, MongoDB, Neo4j, GraphDB, AuraDB, NoSQL
 
-<h4 align="left">⚙️Programming Languages</h4>
+**Cloud & DevOps**  
+- AWS, Azure  
+- Git, GitHub, Azure Repos  
+- CI/CD pipelines, SSMS
 
-###
+**Expertise Areas**  
+- Backend Development, OOP  
+- LLMs, Fine-Tuning, Prompt Engineering  
+- NLP, Deep Learning, CNNs  
+- Data Analysis, Document Understanding  
+- Low-Level Design (LLD), Big Data
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+**Tools**  
+- Jupyter Notebook, VS Code, Postman
 
-###
+---
 
-<h4 align="left">⚙️ Development Tech Stack</h4>
+## 🚀 Projects
 
-###
+### [🔗 Ragas Evaluation (Jan 2025)](https://github.com/mr-rakesh-ranjan/PDF_RAG_Haystack)
+Built and evaluated a **Retrieval-Augmented Generation (RAG)** pipeline using the **Haystack framework**.  
+- Reads and indexes PDF documents  
+- Retrieves relevant context  
+- Uses an LLM for answering queries  
+- Evaluates answer quality with **Ragas**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+---
 
-###
+### [🔗 Gemma Fine-tuning (Dec 2024)](https://github.com/mr-rakesh-ranjan/gemma-finetunning)
+Fine-tuned **Gemma 2.0** using **ICD-10 datasets** to enhance medical query understanding.  
+- Applied NLP and ML for healthcare applications  
+- Focused on improving response quality for diagnosis-related inputs
 
-<h4 align="left">⚙️ Devops Tech Stack</h4>
+---
 
-###
+### [🔗 SoulSpeak – Mental Health Chatbot (Sept 2024)](https://github.com/mr-rakesh-ranjan/mental-health-support-app)
+Created **SoulSpeak**, a FastAPI-based chatbot powered by Gemini (GPT) for mental health support.  
+- Detects emotional patterns  
+- Suggests coping strategies  
+- Shares mental health resources  
+- Built with empathy and LLM fine-tuning
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🧠 Certifications & Achievements
 
-<h4 align="left">⚙️AI & DS Stack</h4>
+- Microsoft Certified: [Azure Data Fundamentals](https://www.credly.com/badges/bd0a08a9-868c-4288-9325-5e2777a5ae28/linked_in_profile)  
+- HackerRank Certified: [SQL (Basic)](https://www.hackerrank.com/certificates/4b77980d2a15), [Rest API (Intermediate)](https://www.hackerrank.com/certificates/98f651732b8f)  
+- IBM Certified: [Blockchain Essentials V2](https://www.credly.com/badges/27c81a24-9135-4766-ab90-231e1c46082c/public_url)  
+- Solved **250+ problems** on [LeetCode](https://leetcode.com/mr_rakesh_ranjan/)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
+## 📚 Education
 
-###
+**B.Tech in Computer Science & Engineering**  
+RCC Institute of Information Technology (2019–2023)  
+_Studied DS&A, DBMS, Java, and Software Engineering._
 
-<h1 align="left">Activities</h1>
+---
 
-###
+## 📫 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-rakesh-ranjan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-rakesh-ranjan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rakesh-ranjan&" alt="mr-rakesh-ranjan" />
-</div>
+- 📧 Email: [rakeshranjan.java1.8@gmail.com](mailto:rakeshranjan.java1.8@gmail.com)  
+- 🔗 LinkedIn: [mr-rakesh-ranjan](https://www.linkedin.com/in/mr-rakesh-ranjan/)  
+- 🖼️ Photography: [Instagram](https://www.instagram.com/mr_rakesh__ranjan/?hl=en)
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/mr-rakesh-ranjan/mr-rakesh-ranjan/output/snake.svg" alt="Snake animation" />
-
-
-
+> “Driven by logic, powered by creativity, and inspired by real-world impact — let’s build something amazing!”
 
