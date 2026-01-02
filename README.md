@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate software engineer with **2.5+ years** of 
 - Java, Python, JavaScript
 
 **Frameworks & Libraries**  
-- Flask, FastAPI, Spring Boot  
+- Flask, FastAPI, Spring Boot, Microservices
 - Pandas, NumPy, Scikit-Learn, Matplotlib  
 - PyTorch, Keras, Hugging Face Transformers, Haystack  
 - LangChain, Llama Index, Ragas, Replicate
@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate software engineer with **2.5+ years** of 
 - LLMs, Fine-Tuning, Prompt Engineering  
 - NLP, Deep Learning, CNNs  
 - Data Analysis, Document Understanding  
-- Low-Level Design (LLD), Big Data
+- Low-Level Design (LLD), Logging/Caching Big Data
 
 **Tools**  
 - Jupyter Notebook, VS Code, Postman
